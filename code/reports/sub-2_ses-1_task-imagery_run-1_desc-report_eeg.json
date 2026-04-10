@@ -1,0 +1,104 @@
+{
+    "LastUpdated": "2026-04-10 04:05:17",
+    "Errors": [],
+    "Import": {
+        "ApplyMetadata": true,
+        "ApplyChanlocs": true,
+        "ApplyEvents": false,
+        "EventColumn": "",
+        "InputFile": {
+            "Filename": "sub-2_ses-1_task-imagery_run-1_eeg.edf",
+            "Relpath": ".",
+            "Filesize": 4950388
+        },
+        "bidsmetadata": true,
+        "bidschanloc": true,
+        "bidsevent": false,
+        "eventtype": "",
+        "Warnings": [],
+        "Errors": [],
+        "ImporterUsed": "neo.rawio.edfrawio.EDFRawIO",
+        "NumStreams": 1,
+        "NumBlocks": 1,
+        "NumSegments": 1,
+        "ScalesApplied": [
+            0.0627400571019302,
+            0.06273494038486101,
+            0.06273977115843876,
+            0.06274011964142005,
+            0.06273978152721303,
+            0.06274066701457884,
+            0.06274050451314436,
+            0.06274077945613978,
+            0.06274108263455001,
+            0.0627388094507268,
+            0.06274069423639686,
+            0.06274010638491001,
+            0.06274149870614915,
+            0.06274214862651786
+        ],
+        "RawStartTime": 0.0,
+        "StartTimeOffset": 0.0,
+        "CombinedStartTime": 0.0,
+        "EEGFileHadLocations": 0,
+        "ChanlocsFrom": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_channels.tsv",
+        "EEGFileHadEvents": 61,
+        "EventsFrom": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.edf",
+        "ElectrodesFrom": "sub-2/ses-1/eeg/sub-2_ses-1_space-CapTrak_electrodes.tsv",
+        "CoordsystemFrom": "sub-2/ses-1/eeg/sub-2_ses-1_space-CapTrak_coordsystem.json",
+        "OriginalCoordUnits": "m",
+        "CoordUnitsWereGuessed": false,
+        "NumUpdatedChanlocs": 14,
+        "NotfoundChanlocs": []
+    },
+    "Resample": {
+        "Applied": true,
+        "SamplingRate": 100.0
+    },
+    "CleanArtifacts": {
+        "Applied": true,
+        "ChannelCriterion": "off",
+        "LineNoiseCriterion": "off",
+        "BurstCriterion": "off",
+        "WindowCriterion": "off",
+        "Highpass": [
+            0.5,
+            1.0
+        ],
+        "ChannelCriterionMaxBadTime": 0.5,
+        "BurstCriterionRefMaxBadChns": 0.075,
+        "BurstCriterionRefTolerances": [
+            -Infinity,
+            5.5
+        ],
+        "BurstRejection": "off",
+        "WindowCriterionTolerances": [
+            -Infinity,
+            7
+        ],
+        "FlatlineCriterion": "off",
+        "NumSamples": 50,
+        "NoLocsChannelCriterion": 0.45,
+        "NoLocsChannelCriterionExcluded": 0.1,
+        "MaxMem": 64,
+        "Distance": "euclidian"
+    },
+    "ICA": {
+        "Applied": false
+    },
+    "ICLabel": {
+        "Applied": false
+    },
+    "ChannelInterp": {
+        "Applied": false
+    },
+    "Epoching": {
+        "Applied": false
+    },
+    "ChannelSelection": {
+        "Applied": false
+    },
+    "CommonAverageRef": {
+        "Applied": false
+    }
+}

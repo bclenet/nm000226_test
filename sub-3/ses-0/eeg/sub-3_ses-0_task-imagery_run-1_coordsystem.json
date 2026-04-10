@@ -1,0 +1,45 @@
+{
+    "EEGCoordinateSystem": "EEGLAB",
+    "EEGCoordinateUnits": "mm",
+    "EEGCoordinateSystemDescription": "ALS | +x is front, +y is left, +z is up",
+    "AnatomicalLandmarkCoordinates": {
+        "NAS": [
+            0.0,
+            0.12374778108741932,
+            0.0
+        ],
+        "LPA": [
+            -0.12374778108741932,
+            0.0,
+            0.0
+        ],
+        "RPA": [
+            0.12374778108741932,
+            0.0,
+            0.0
+        ]
+    },
+    "AnatomicalLandmarkCoordinateSystem": "CapTrak",
+    "AnatomicalLandmarkCoordinateUnits": "m",
+    "AnatomicalLandmarkCoordinateSystemDescription": "Based on the CapTrak coordinate system with fiducial points NAS, LPA, and RPA.",
+    "FiducialsCoordinates": {
+        "NAS": [
+            0.0,
+            0.12374778108741932,
+            0.0
+        ],
+        "LPA": [
+            -0.12374778108741932,
+            0.0,
+            0.0
+        ],
+        "RPA": [
+            0.12374778108741932,
+            0.0,
+            0.0
+        ]
+    },
+    "FiducialsCoordinateSystem": "CapTrak",
+    "FiducialsCoordinateUnits": "m",
+    "FiducialsCoordinateSystemDescription": "Based on the CapTrak coordinate system with fiducial points NAS, LPA, and RPA."
+}

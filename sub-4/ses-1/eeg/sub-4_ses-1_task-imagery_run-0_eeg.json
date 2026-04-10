@@ -1,0 +1,53 @@
+{
+    "TaskName": "imagery",
+    "Manufacturer": "n/a",
+    "PowerLineFrequency": 50.0,
+    "SamplingFrequency": 100.0,
+    "SoftwareFilters": {
+        "pop_resample": {
+            "SamplingRate": 100.0
+        },
+        "clean_artifacts": {
+            "ChannelCriterion": "off",
+            "LineNoiseCriterion": "off",
+            "BurstCriterion": "off",
+            "WindowCriterion": "off",
+            "Highpass": [
+                0.5,
+                1.0
+            ],
+            "ChannelCriterionMaxBadTime": 0.5,
+            "BurstCriterionRefMaxBadChns": 0.075,
+            "BurstCriterionRefTolerances": [
+                "-inf",
+                5.5
+            ],
+            "BurstRejection": "off",
+            "WindowCriterionTolerances": [
+                "-inf",
+                7
+            ],
+            "FlatlineCriterion": "off",
+            "NumSamples": 50,
+            "NoLocsChannelCriterion": 0.45,
+            "NoLocsChannelCriterionExcluded": 0.1,
+            "MaxMem": 64,
+            "Distance": "euclidian"
+        }
+    },
+    "RecordingDuration": 861.99,
+    "RecordingType": "continuous",
+    "EEGReference": "n/a",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "based on the extended 10/20 system",
+    "EEGChannelCount": 14,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "HardwareFilters": "n/a",
+    "SubjectArtefactDescription": "n/a",
+    "TaskDescription": "Motor imagery task with three conditions: left hand, right hand, and feet imagery.",
+    "InstitutionName": "National University of Defense Technology",
+    "InstitutionAddress": "Changsha, Hunan, China",
+    "MiscChannelCount": 0
+}
