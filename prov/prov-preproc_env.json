@@ -3,7 +3,6 @@
     {
       "Id": "bids::prov#virtualenv-jjcd2eRa",
       "Label": "Python virtual environment",
-      "OperatingSystem": "Fedora Linux 36",
       "Dependencies": {
         "eegprep": "0.2.23",
       }

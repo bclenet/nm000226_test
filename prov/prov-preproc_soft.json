@@ -1,12 +1,6 @@
 {
   "Software": [
     {
-      "Id": "bids::prov#moabb-DpKE3dbF",
-      "Name": "moabb",
-      "Version": "1.2.0",
-      "AlternativeIdentifier": "https://github.com/NeuroTechX/moabb"
-    },
-    {
       "Id": "bids::prov#eegprep-cyz25rdQ",
       "Name": "eegprep",
       "Version": "",

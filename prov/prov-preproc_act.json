@@ -1,0 +1,15 @@
+{
+  "Activities": [
+    {
+      "Id": "bids::prov#preparation-qUnddv7M",
+      "Name": "Preparation",
+      "AssociatedWith": [
+        "bids::prov#eegprep-cyz25rdQ"
+      ],
+      "Used": [
+        "bids:nm000115:sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.edf",
+        "bids::prov#virtualenv-jjcd2eRa"
+      ]
+    }
+  ]
+}
