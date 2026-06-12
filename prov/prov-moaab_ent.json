@@ -1,0 +1,15 @@
+{
+  "Files": [
+    {
+      "Id": "bids:nm000115:sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.edf",
+      "Label": "sub-1_ses-0_task-imagery_run-0_eeg.edf"
+    },
+    {
+      "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.set#5ff4404f",
+      "Label": "sub-1_ses-0_task-imagery_run-0_eeg.set",
+      "GeneratedBy": [
+        "bids::prov#preparation-qUnddv7M"
+      ]
+    }
+  ]
+}

@@ -14,20 +14,6 @@
   "ReferencesAndLinks": [
     "https://doi.org/10.1371/journal.pone.0162657"
   ],
-  "GeneratedBy": [
-    {
-      "Name": "moabb",
-      "Version": "1.2.0",
-      "Description": "Mother of All BCI Benchmarks",
-      "CodeURL": "https://github.com/NeuroTechX/moabb"
-    },
-    {
-      "Name": "eegprep",
-      "Description": "The EEGPrep data pipeline",
-      "Version": "",
-      "CodeURL": "https://github.com/sccn/eegprep"
-    }
-  ],
   "SourceDatasets": [
     {
       "URL": "https://zenodo.org/records/16534752",
@@ -36,5 +22,8 @@
     "10.82901/nemar.nm000115"
   ],
   "DatasetDOI": "10.82901/nemar.nm000115",
-  "IsEpoched": false
+  "IsEpoched": false,
+  "DatasetLinks": {
+    "nm000115": "https://doi.org/10.82901/nemar.nm000115"
+  }
 }
