@@ -2,9 +2,23 @@
   "Software": [
     {
       "Id": "bids::prov#eegprep-cyz25rdQ",
-      "Name": "eegprep",
-      "Version": "",
-      "AlternativeIdentifier": "https://github.com/sccn/eegprep"
+      "Label": "eegprep",
+      "Version": "0.2.23",
+      "AlternativeIdentifier": [
+        "https://github.com/sccn/eegprep/releases/tag/v0.2.23"
+      ],
+      "ActedOnBehalfOf": [
+        "bids::prov#python-cwze7mJA"
+      ]
+    },
+    {
+      "Id": "bids::prov#python-cwze7mJA",
+      "Label": "python",
+      "Version": "3.12.13",
+      "AlternativeIdentifier": [
+        "https://www.python.org/downloads/release/python-31213/",
+        "RRID:SCR_008394"
+      ]
     }
   ]
 }
