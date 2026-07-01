@@ -1,15 +1,322 @@
 {
   "Files": [
     {
-      "Id": "bids:nm000115:sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.edf",
-      "Label": "sub-1_ses-0_task-imagery_run-0_eeg.edf"
+        "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.set#0f1b38ab",
+        "Label": "sub-1_ses-0_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "0f1b38ab2cf0962783240866e6b4fa699303c6f0263b3e5b986c8b22ea0a4e62"
+            }
+        ]
     },
     {
-      "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.set#5ff4404f",
-      "Label": "sub-1_ses-0_task-imagery_run-0_eeg.set",
-      "GeneratedBy": [
-        "bids::prov#preparation-qUnddv7M"
-      ]
+        "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_eeg.set#09ec436f",
+        "Label": "sub-1_ses-0_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "09ec436fda6a3147272d5562b30f690c1511595b5390b55c7a61c46e9a94444b"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_eeg.set#b27d8e2f",
+        "Label": "sub-1_ses-1_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "b27d8e2f23f23d1f491eb93c9ee4dea710407548c86d943b6c60304318e3efed"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_eeg.set#5d149779",
+        "Label": "sub-1_ses-1_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "5d1497791584b023f6f1354153c9b24dc897fc32f4e64d3d3b6ca41afce0be72"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_eeg.set#3f2bccce",
+        "Label": "sub-1_ses-2_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "3f2bccce842dfee87a82b3e57affd62b6a720aaedd90753f4fa605992598759e"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_eeg.set#5577175b",
+        "Label": "sub-1_ses-2_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "5577175bec1148c96d424a7fe809ce8138946bf28b7c83743a554d7071cf67e6"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_eeg.set#4da72423",
+        "Label": "sub-2_ses-0_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "4da72423517df80df6bfa68d23ed1d0e82da93d8cd2dac349f4d7aaaddf49927"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_eeg.set#fbb707c1",
+        "Label": "sub-2_ses-0_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "fbb707c19a8384907a19bbdb31543285bdbc29dc10e77ce1f79023ce31e93ca4"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_eeg.set#9122cac7",
+        "Label": "sub-2_ses-1_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "9122cac7f2d1b1f0be39cc8c1f7d738dfdad66321f86164b3eaad637572ce4d0"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.set#4f053f66",
+        "Label": "sub-2_ses-1_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "4f053f6639b990135597ecce4910c39d9b2014c0685a83d75a6a7767cdacd5b."
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_eeg.set#da2a3045",
+        "Label": "sub-2_ses-2_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "da2a3045b6d0469ed8014347cfcb549572595b6fb45a8983d720ea1e97d226b0"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_eeg.set#c3f08be7",
+        "Label": "sub-2_ses-2_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "c3f08be73dae10e5908d0c8e22bea194caca341b05d2278a91ee752cb64a5b9c"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_eeg.set#36ad36cd",
+        "Label": "sub-3_ses-0_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "36ad36cdedfd57e738931f16650d7e379c58ca46d47081b7f6547d701970cf9d"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_eeg.set#5bb7e520",
+        "Label": "sub-3_ses-0_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "5bb7e520f6f95bc1210442c656c7c65df6cab36a48033fb043594d6ea838cd99"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_eeg.set#ce5eef8d",
+        "Label": "sub-3_ses-1_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "ce5eef8d83661169e948aa1e54add5abdae0222c8e5d56334a867a1b8de8c82d"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_eeg.set#1ed613f5",
+        "Label": "sub-3_ses-1_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "1ed613f5d28f7e1ce786d171211092531a1ec32f5fd5bd92b354f77739edf871"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_eeg.set#0b8cf793",
+        "Label": "sub-3_ses-2_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "0b8cf7934968e7259e62269910c14e138526d59878489f76cb33c69cee7c11d7"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_eeg.set#18b63988",
+        "Label": "sub-3_ses-2_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "18b63988b5aa229f147d9ef6d8ec0daed1c996048edebe8139f665470d79e984"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_eeg.set#963f4aee",
+        "Label": "sub-4_ses-0_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "963f4aee98bd63d7b8d2a8481cc22c87a7d1e8c509ff3e0fbd410d6863528c3."
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_eeg.set#be14b5c4",
+        "Label": "sub-4_ses-0_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "be14b5c4b845b1e36a68897d57c25ef32534ec896129f62c9a15cc4f01be8dd8"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_eeg.set#8c8ec284",
+        "Label": "sub-4_ses-1_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "8c8ec284fe68dab115d56d97ade4e8af2a20c532fa6913125d9744641ee461a1"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_eeg.set#78983023",
+        "Label": "sub-4_ses-1_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "7898302304c7940d04ebefed96465c31118720df26898dd3c08d766440a0a806"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_eeg.set#10c5fa84",
+        "Label": "sub-4_ses-2_task-imagery_run-0_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "10c5fa845a00abbf8b3708b6d6ca00001806d85d4a94332d55f31927ebcd7cad"
+            }
+        ]
+    },
+    {
+        "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_eeg.set#84a3b730",
+        "Label": "sub-4_ses-2_task-imagery_run-1_eeg.set",
+        "GeneratedBy": [
+            "bids::prov#preparation-qUnddv7M"
+        ],
+        "Checksum": [
+            {
+                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                "ChecksumValue": "84a3b7304c0a930881909ecc1763096421f896662899601414e50ddac574c827"
+            }
+        ]
+    }
+  ],
+  "Datasets": [
+    {
+      "Id": "bids:nm000115:.",
+      "Label": "Zhou2016"
     }
   ]
 }
