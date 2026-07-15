@@ -1,322 +1,2194 @@
 {
-  "Files": [
-    {
-        "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.set#0f1b38ab",
-        "Label": "sub-1_ses-0_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "0f1b38ab2cf0962783240866e6b4fa699303c6f0263b3e5b986c8b22ea0a4e62"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_eeg.set#09ec436f",
-        "Label": "sub-1_ses-0_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "09ec436fda6a3147272d5562b30f690c1511595b5390b55c7a61c46e9a94444b"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_eeg.set#b27d8e2f",
-        "Label": "sub-1_ses-1_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "b27d8e2f23f23d1f491eb93c9ee4dea710407548c86d943b6c60304318e3efed"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_eeg.set#5d149779",
-        "Label": "sub-1_ses-1_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "5d1497791584b023f6f1354153c9b24dc897fc32f4e64d3d3b6ca41afce0be72"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_eeg.set#3f2bccce",
-        "Label": "sub-1_ses-2_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "3f2bccce842dfee87a82b3e57affd62b6a720aaedd90753f4fa605992598759e"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_eeg.set#5577175b",
-        "Label": "sub-1_ses-2_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "5577175bec1148c96d424a7fe809ce8138946bf28b7c83743a554d7071cf67e6"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_eeg.set#4da72423",
-        "Label": "sub-2_ses-0_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "4da72423517df80df6bfa68d23ed1d0e82da93d8cd2dac349f4d7aaaddf49927"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_eeg.set#fbb707c1",
-        "Label": "sub-2_ses-0_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "fbb707c19a8384907a19bbdb31543285bdbc29dc10e77ce1f79023ce31e93ca4"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_eeg.set#9122cac7",
-        "Label": "sub-2_ses-1_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "9122cac7f2d1b1f0be39cc8c1f7d738dfdad66321f86164b3eaad637572ce4d0"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.set#4f053f66",
-        "Label": "sub-2_ses-1_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "4f053f6639b990135597ecce4910c39d9b2014c0685a83d75a6a7767cdacd5b."
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_eeg.set#da2a3045",
-        "Label": "sub-2_ses-2_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "da2a3045b6d0469ed8014347cfcb549572595b6fb45a8983d720ea1e97d226b0"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_eeg.set#c3f08be7",
-        "Label": "sub-2_ses-2_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "c3f08be73dae10e5908d0c8e22bea194caca341b05d2278a91ee752cb64a5b9c"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_eeg.set#36ad36cd",
-        "Label": "sub-3_ses-0_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "36ad36cdedfd57e738931f16650d7e379c58ca46d47081b7f6547d701970cf9d"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_eeg.set#5bb7e520",
-        "Label": "sub-3_ses-0_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "5bb7e520f6f95bc1210442c656c7c65df6cab36a48033fb043594d6ea838cd99"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_eeg.set#ce5eef8d",
-        "Label": "sub-3_ses-1_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "ce5eef8d83661169e948aa1e54add5abdae0222c8e5d56334a867a1b8de8c82d"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_eeg.set#1ed613f5",
-        "Label": "sub-3_ses-1_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "1ed613f5d28f7e1ce786d171211092531a1ec32f5fd5bd92b354f77739edf871"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_eeg.set#0b8cf793",
-        "Label": "sub-3_ses-2_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "0b8cf7934968e7259e62269910c14e138526d59878489f76cb33c69cee7c11d7"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_eeg.set#18b63988",
-        "Label": "sub-3_ses-2_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "18b63988b5aa229f147d9ef6d8ec0daed1c996048edebe8139f665470d79e984"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_eeg.set#963f4aee",
-        "Label": "sub-4_ses-0_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "963f4aee98bd63d7b8d2a8481cc22c87a7d1e8c509ff3e0fbd410d6863528c3."
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_eeg.set#be14b5c4",
-        "Label": "sub-4_ses-0_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "be14b5c4b845b1e36a68897d57c25ef32534ec896129f62c9a15cc4f01be8dd8"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_eeg.set#8c8ec284",
-        "Label": "sub-4_ses-1_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "8c8ec284fe68dab115d56d97ade4e8af2a20c532fa6913125d9744641ee461a1"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_eeg.set#78983023",
-        "Label": "sub-4_ses-1_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "7898302304c7940d04ebefed96465c31118720df26898dd3c08d766440a0a806"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_eeg.set#10c5fa84",
-        "Label": "sub-4_ses-2_task-imagery_run-0_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "10c5fa845a00abbf8b3708b6d6ca00001806d85d4a94332d55f31927ebcd7cad"
-            }
-        ]
-    },
-    {
-        "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_eeg.set#84a3b730",
-        "Label": "sub-4_ses-2_task-imagery_run-1_eeg.set",
-        "GeneratedBy": [
-            "bids::prov#preparation-qUnddv7M"
-        ],
-        "Checksum": [
-            {
-                "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
-                "ChecksumValue": "84a3b7304c0a930881909ecc1763096421f896662899601414e50ddac574c827"
-            }
-        ]
-    }
-  ],
-  "Datasets": [
-    {
-      "Id": "bids:nm000115:.",
-      "Label": "Zhou2016"
-    }
-  ]
+    "Files": [
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-1_ses-0_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-1_ses-0_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-1_ses-0_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.json#b2f1028c",
+            "Label": "sub-1_ses-0_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "b2f1028c4027c8c43e1534997840549001ff8ad24be42357c2c4142523a716bd"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.set#0f1b38ab",
+            "Label": "sub-1_ses-0_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "0f1b38ab2cf0962783240866e6b4fa699303c6f0263b3e5b986c8b22ea0a4e62"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-1_ses-0_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-1_ses-0_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-1_ses-0_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-1_ses-0_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_eeg.json#13b4128b",
+            "Label": "sub-1_ses-0_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "13b4128b0a95a9699fa42425826e4aad606228dcf9112cd80dd89bd9b793d125"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_eeg.set#09ec436f",
+            "Label": "sub-1_ses-0_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "09ec436fda6a3147272d5562b30f690c1511595b5390b55c7a61c46e9a94444b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-1_ses-0_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-1_ses-0_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-0/sub-1_ses-0_scans.tsv#ef7e7400",
+            "Label": "sub-1_ses-0_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "ef7e7400ddcebe73d1352b67cfb1c9a41022255d2a1624fa3ada1afe52fc0c17"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-1_ses-1_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-1_ses-1_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-1_ses-1_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_eeg.json#89372599",
+            "Label": "sub-1_ses-1_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "893725999ed7636441ba31232dadb9eaba83eb2c6871c3d6b3320f474e0806fe"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_eeg.set#b27d8e2f",
+            "Label": "sub-1_ses-1_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "b27d8e2f23f23d1f491eb93c9ee4dea710407548c86d943b6c60304318e3efed"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-1_ses-1_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-1_ses-1_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-1_ses-1_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-1_ses-1_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_eeg.json#2a5b3b4a",
+            "Label": "sub-1_ses-1_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "2a5b3b4ac606f7c946e3cac1dca4e211c6166c48c7a2e9c53419b074b64ae77e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_eeg.set#5d149779",
+            "Label": "sub-1_ses-1_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "5d1497791584b023f6f1354153c9b24dc897fc32f4e64d3d3b6ca41afce0be72"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-1_ses-1_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-1_ses-1_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-1/sub-1_ses-1_scans.tsv#80c13606",
+            "Label": "sub-1_ses-1_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "80c1360622ed23d478afed51c7d8ba793d742316478e7202146c588fca51ce0b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-1_ses-2_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-1_ses-2_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-1_ses-2_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_eeg.json#7efffa3a",
+            "Label": "sub-1_ses-2_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "7efffa3a031556516f3945f32989014d555c53eda9311a16a50b1f2e1af8168f"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_eeg.set#3f2bccce",
+            "Label": "sub-1_ses-2_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "3f2bccce842dfee87a82b3e57affd62b6a720aaedd90753f4fa605992598759e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-1_ses-2_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-1_ses-2_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-1_ses-2_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-1_ses-2_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_eeg.json#b9f50061",
+            "Label": "sub-1_ses-2_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "b9f50061c231f9f6464ef3a1613dc2ecf091e08b5cfe5e90fbd38dde60e5def9"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_eeg.set#5577175b",
+            "Label": "sub-1_ses-2_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "5577175bec1148c96d424a7fe809ce8138946bf28b7c83743a554d7071cf67e6"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-1_ses-2_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-1_ses-2_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-1/ses-2/sub-1_ses-2_scans.tsv#f6dd4503",
+            "Label": "sub-1_ses-2_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f6dd4503c2c13285a3959790147e8df0d82da8322debb2fe0dade92cbf367114"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-2_ses-0_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-2_ses-0_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-2_ses-0_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_eeg.json#65a3f152",
+            "Label": "sub-2_ses-0_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "65a3f15263c4c37e6b8810cf8c85ee180bfb212e3eabc9231a577178cc9f8d95"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_eeg.set#4da72423",
+            "Label": "sub-2_ses-0_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4da72423517df80df6bfa68d23ed1d0e82da93d8cd2dac349f4d7aaaddf49927"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-2_ses-0_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-2_ses-0_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-2_ses-0_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-2_ses-0_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_eeg.json#ddbf8984",
+            "Label": "sub-2_ses-0_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "ddbf898410e8cf551fff28fed4e35a547cfc43359a8880b413578dba2280e3c4"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_eeg.set#fbb707c1",
+            "Label": "sub-2_ses-0_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "fbb707c19a8384907a19bbdb31543285bdbc29dc10e77ce1f79023ce31e93ca4"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-2_ses-0_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-2_ses-0_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-0/sub-2_ses-0_scans.tsv#599fb611",
+            "Label": "sub-2_ses-0_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "599fb6113258f8a95dcbf10c1ce8222ecf415b66dbadcc6e55df796a3108134d"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-2_ses-1_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-2_ses-1_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-2_ses-1_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_eeg.json#6d96e6a0",
+            "Label": "sub-2_ses-1_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "6d96e6a05a09851c50909e3d0ffdb46393f6ab731d3ae677111706e2413b419e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_eeg.set#9122cac7",
+            "Label": "sub-2_ses-1_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "9122cac7f2d1b1f0be39cc8c1f7d738dfdad66321f86164b3eaad637572ce4d0"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-2_ses-1_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-2_ses-1_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-2_ses-1_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-2_ses-1_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.json#9bb037f7",
+            "Label": "sub-2_ses-1_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "9bb037f77069a8fe64a385ea1553d562211dfcb7a57bc3a5d23376e14a3ee948"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.set#04f053f6",
+            "Label": "sub-2_ses-1_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "04f053f6639b990135597ecce4910c39d9b2014c0685a83d75a6a7767cdacd5b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-2_ses-1_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-2_ses-1_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-1/sub-2_ses-1_scans.tsv#39d42862",
+            "Label": "sub-2_ses-1_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "39d42862168dc0957553673425af10eb0f86085fca23d600c07c56a1fe22c47c"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-2_ses-2_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-2_ses-2_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-2_ses-2_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_eeg.json#912108c3",
+            "Label": "sub-2_ses-2_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "912108c369aebfc850ac7793890cfae6e6b620c07f9782b14382a865e926341d"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_eeg.set#da2a3045",
+            "Label": "sub-2_ses-2_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "da2a3045b6d0469ed8014347cfcb549572595b6fb45a8983d720ea1e97d226b0"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-2_ses-2_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-2_ses-2_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-2_ses-2_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-2_ses-2_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_eeg.json#54650301",
+            "Label": "sub-2_ses-2_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "546503014ee40cb7fbaebc233ee79b5018f8fbfcda755134115921ac7b172cc7"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_eeg.set#c3f08be7",
+            "Label": "sub-2_ses-2_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c3f08be73dae10e5908d0c8e22bea194caca341b05d2278a91ee752cb64a5b9c"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-2_ses-2_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-2_ses-2_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-2/ses-2/sub-2_ses-2_scans.tsv#80afbd6f",
+            "Label": "sub-2_ses-2_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "80afbd6f552ab89c5a134a20f150849f23292946ed317b8e3c27df94b3e9fcf2"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-3_ses-0_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-3_ses-0_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-3_ses-0_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_eeg.json#315a76de",
+            "Label": "sub-3_ses-0_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "315a76deb00ef8e5a51f2d6d53c2f417336beda5a708fc8b05aac5206a343278"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_eeg.set#36ad36cd",
+            "Label": "sub-3_ses-0_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "36ad36cdedfd57e738931f16650d7e379c58ca46d47081b7f6547d701970cf9d"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-3_ses-0_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-3_ses-0_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-3_ses-0_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-3_ses-0_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_eeg.json#6fe8e326",
+            "Label": "sub-3_ses-0_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "6fe8e3268e58569b255bff895be39ce7e43c8af3c7732fcb786fb82f56a9b3c6"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_eeg.set#5bb7e520",
+            "Label": "sub-3_ses-0_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "5bb7e520f6f95bc1210442c656c7c65df6cab36a48033fb043594d6ea838cd99"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-3_ses-0_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-3_ses-0_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-0/sub-3_ses-0_scans.tsv#c8a45c02",
+            "Label": "sub-3_ses-0_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c8a45c02ed70d0994969258751127f9a47985fe2ad6c6ba213fa3e3d39645324"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-3_ses-1_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-3_ses-1_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-3_ses-1_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_eeg.json#e7e45f14",
+            "Label": "sub-3_ses-1_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "e7e45f140798851ea2f2f491f167999625381121e323f419534a874c0b28589e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_eeg.set#ce5eef8d",
+            "Label": "sub-3_ses-1_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "ce5eef8d83661169e948aa1e54add5abdae0222c8e5d56334a867a1b8de8c82d"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-3_ses-1_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-3_ses-1_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-3_ses-1_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-3_ses-1_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_eeg.json#310a3aec",
+            "Label": "sub-3_ses-1_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "310a3aec2f34d911983171c30555d5e6ece1442d9fa6da6e6bbb93792f90b47f"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_eeg.set#1ed613f5",
+            "Label": "sub-3_ses-1_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "1ed613f5d28f7e1ce786d171211092531a1ec32f5fd5bd92b354f77739edf871"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-3_ses-1_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-3_ses-1_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-1/sub-3_ses-1_scans.tsv#e3041203",
+            "Label": "sub-3_ses-1_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "e304120334f10f0279b6fb0972d12c4c0d9bba4d9cdd99965429ed154eba34b4"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-3_ses-2_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-3_ses-2_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-3_ses-2_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_eeg.json#015f5d2b",
+            "Label": "sub-3_ses-2_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "015f5d2b96fe6ba23b7d68ad57f0351f086c95b18f23230d3fea92689de6161a"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_eeg.set#0b8cf793",
+            "Label": "sub-3_ses-2_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "0b8cf7934968e7259e62269910c14e138526d59878489f76cb33c69cee7c11d7"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-3_ses-2_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-3_ses-2_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-3_ses-2_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-3_ses-2_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_eeg.json#efc4ed31",
+            "Label": "sub-3_ses-2_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "efc4ed311f960cebdbcc1006841fea10e24e818bda7e066f30c5281cf171e5a4"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_eeg.set#18b63988",
+            "Label": "sub-3_ses-2_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "18b63988b5aa229f147d9ef6d8ec0daed1c996048edebe8139f665470d79e984"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-3_ses-2_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-3_ses-2_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-3/ses-2/sub-3_ses-2_scans.tsv#a9b03c7c",
+            "Label": "sub-3_ses-2_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "a9b03c7c147ebf6ee2c7744d5a7e568ee7b0e296c55dd656cee835502a35b6c7"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-4_ses-0_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-4_ses-0_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-4_ses-0_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_eeg.json#cc279a0e",
+            "Label": "sub-4_ses-0_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "cc279a0e9877147a1614ff9b754144f46e061ec966594a446a0642aba23acd05"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_eeg.set#d963f4ae",
+            "Label": "sub-4_ses-0_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "d963f4aee98bd63d7b8d2a8481cc22c87a7d1e8c509ff3e0fbd410d6863528c3"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-4_ses-0_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-4_ses-0_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-4_ses-0_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-4_ses-0_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_eeg.json#2d4a2262",
+            "Label": "sub-4_ses-0_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "2d4a2262f1ed3d0aa23d7e62e036ff668ab4bb55d8121a5aa4761776482627e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_eeg.set#be14b5c4",
+            "Label": "sub-4_ses-0_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "be14b5c4b845b1e36a68897d57c25ef32534ec896129f62c9a15cc4f01be8dd8"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-4_ses-0_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-4_ses-0_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-0/sub-4_ses-0_scans.tsv#f84dfc67",
+            "Label": "sub-4_ses-0_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f84dfc6795db0980da92ee9e1fcd6805b51a34585b603212f521f2fd811b7115"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-4_ses-1_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-4_ses-1_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-4_ses-1_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_eeg.json#26e70150",
+            "Label": "sub-4_ses-1_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "26e701501fccf388d3fb722f390d14aa460eec138d3e79a842385c6cc854e843"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_eeg.set#8c8ec284",
+            "Label": "sub-4_ses-1_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "8c8ec284fe68dab115d56d97ade4e8af2a20c532fa6913125d9744641ee461a1"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-4_ses-1_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-4_ses-1_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-4_ses-1_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-4_ses-1_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_eeg.json#b449c31c",
+            "Label": "sub-4_ses-1_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "b449c31c76c9c1fb0a90ed57c462bbef1128eb67c6ca1e648537fc0942530439"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_eeg.set#78983023",
+            "Label": "sub-4_ses-1_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "7898302304c7940d04ebefed96465c31118720df26898dd3c08d766440a0a806"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-4_ses-1_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-4_ses-1_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-1/sub-4_ses-1_scans.tsv#948e9b05",
+            "Label": "sub-4_ses-1_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "948e9b0501ec4ee069a1d12d39211e3b43e33dbcfa05479b90612234ed35bd23"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
+            "Label": "sub-4_ses-2_space-CapTrak_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "41ee46a3444d7ae2d4e937ebb05b0c28549f5816b922c84e8a90c173b48b6aae"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Label": "sub-4_ses-2_task-imagery_run-0_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Label": "sub-4_ses-2_task-imagery_run-0_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_eeg.json#dc90bfdb",
+            "Label": "sub-4_ses-2_task-imagery_run-0_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "dc90bfdbf58a94b15d2748e901a6ba3c1200c0e4a8b51604fbeb98f9621f8257"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_eeg.set#10c5fa84",
+            "Label": "sub-4_ses-2_task-imagery_run-0_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "10c5fa845a00abbf8b3708b6d6ca00001806d85d4a94332d55f31927ebcd7cad"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Label": "sub-4_ses-2_task-imagery_run-0_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
+            "Label": "sub-4_ses-2_task-imagery_run-0_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Label": "sub-4_ses-2_task-imagery_run-1_channels.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c7022c3abf5e4e5f39ca79d0775b3aeb2089bfeb9c70df1e16b07a855286a8e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Label": "sub-4_ses-2_task-imagery_run-1_coordsystem.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "f97d48bd240598b6615904b4d9e56e7e9b1ada6408b2e98e09b558ac7e646d2b"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_eeg.json#2d4a2262",
+            "Label": "sub-4_ses-2_task-imagery_run-1_eeg.json",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "2d4a2262f1ed3d0aa23d7e62e036ff668ab4bb55d8121a5aa4761776482627e5"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_eeg.set#84a3b730",
+            "Label": "sub-4_ses-2_task-imagery_run-1_eeg.set",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "84a3b7304c0a930881909ecc1763096421f896662899601414e50ddac574c827"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Label": "sub-4_ses-2_task-imagery_run-1_electrodes.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "28f73093cc21f26e58d1617150dfa140d226e3952fcd598ca173d020b4883901"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
+            "Label": "sub-4_ses-2_task-imagery_run-1_events.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "4bbba0beb07631bb71c1c6fa3d2b67a34d5461f12d699969b86c56b3af82423e"
+                }
+            ]
+        },
+        {
+            "Id": "sub-4/ses-2/sub-4_ses-2_scans.tsv#c74b14ae",
+            "Label": "sub-4_ses-2_scans.tsv",
+            "GeneratedBy": [
+                "bids::prov#preparation-qUnddv7M"
+            ],
+            "Checksum": [
+                {
+                    "ChecksumAlgorithm": "spdx:checksumAlgorithm_sha256",
+                    "ChecksumValue": "c74b14ae835b524a4b07e5406057899f08d985a76ad37c59bfbdb1e19c7d7597"
+                }
+            ]
+        }
+    ],
+    "Datasets": [
+        {
+            "Id": "bids:nm000115:.",
+            "Label": "Zhou2016"
+        }
+    ]
 }
