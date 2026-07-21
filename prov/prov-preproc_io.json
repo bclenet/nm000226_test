@@ -1,7 +1,7 @@
 {
     "Files": [
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-1_ses-0_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-1_ses-0_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-1_ses-0_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.json#b2f1028c",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.json#b2f1028c",
             "Label": "sub-1_ses-0_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.set#0f1b38ab",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_eeg.set#0f1b38ab",
             "Label": "sub-1_ses-0_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -66,7 +66,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-1_ses-0_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -79,7 +79,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-1_ses-0_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-1_ses-0_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -105,7 +105,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-1_ses-0_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -118,7 +118,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_eeg.json#13b4128b",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_eeg.json#13b4128b",
             "Label": "sub-1_ses-0_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -131,7 +131,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_eeg.set#09ec436f",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_eeg.set#09ec436f",
             "Label": "sub-1_ses-0_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -144,7 +144,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-1_ses-0_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-1/ses-0/eeg/sub-1_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-1_ses-0_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -170,7 +170,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-0/sub-1_ses-0_scans.tsv#ef7e7400",
+            "Id": "bids::sub-1/ses-0/sub-1_ses-0_scans.tsv#ef7e7400",
             "Label": "sub-1_ses-0_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -183,7 +183,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-1_ses-1_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -196,7 +196,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-1_ses-1_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -209,7 +209,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-1_ses-1_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -222,7 +222,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_eeg.json#89372599",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_eeg.json#89372599",
             "Label": "sub-1_ses-1_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -235,7 +235,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_eeg.set#b27d8e2f",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_eeg.set#b27d8e2f",
             "Label": "sub-1_ses-1_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -248,7 +248,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-1_ses-1_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -261,7 +261,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-1_ses-1_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -274,7 +274,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-1_ses-1_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -287,7 +287,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-1_ses-1_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -300,7 +300,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_eeg.json#2a5b3b4a",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_eeg.json#2a5b3b4a",
             "Label": "sub-1_ses-1_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -313,7 +313,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_eeg.set#5d149779",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_eeg.set#5d149779",
             "Label": "sub-1_ses-1_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -326,7 +326,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-1_ses-1_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -339,7 +339,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-1/ses-1/eeg/sub-1_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-1_ses-1_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -352,7 +352,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-1/sub-1_ses-1_scans.tsv#80c13606",
+            "Id": "bids::sub-1/ses-1/sub-1_ses-1_scans.tsv#80c13606",
             "Label": "sub-1_ses-1_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -365,7 +365,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-1_ses-2_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -378,7 +378,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-1_ses-2_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -391,7 +391,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-1_ses-2_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -404,7 +404,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_eeg.json#7efffa3a",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_eeg.json#7efffa3a",
             "Label": "sub-1_ses-2_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -417,7 +417,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_eeg.set#3f2bccce",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_eeg.set#3f2bccce",
             "Label": "sub-1_ses-2_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -430,7 +430,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-1_ses-2_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -443,7 +443,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-1_ses-2_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -456,7 +456,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-1_ses-2_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -469,7 +469,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-1_ses-2_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -482,7 +482,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_eeg.json#b9f50061",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_eeg.json#b9f50061",
             "Label": "sub-1_ses-2_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -495,7 +495,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_eeg.set#5577175b",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_eeg.set#5577175b",
             "Label": "sub-1_ses-2_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -508,7 +508,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-1_ses-2_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -521,7 +521,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-1/ses-2/eeg/sub-1_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-1_ses-2_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -534,7 +534,7 @@
             ]
         },
         {
-            "Id": "sub-1/ses-2/sub-1_ses-2_scans.tsv#f6dd4503",
+            "Id": "bids::sub-1/ses-2/sub-1_ses-2_scans.tsv#f6dd4503",
             "Label": "sub-1_ses-2_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -547,7 +547,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-2_ses-0_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -560,7 +560,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-2_ses-0_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -573,7 +573,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-2_ses-0_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -586,7 +586,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_eeg.json#65a3f152",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_eeg.json#65a3f152",
             "Label": "sub-2_ses-0_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -599,7 +599,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_eeg.set#4da72423",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_eeg.set#4da72423",
             "Label": "sub-2_ses-0_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -612,7 +612,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-2_ses-0_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -625,7 +625,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-2_ses-0_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -638,7 +638,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-2_ses-0_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -651,7 +651,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-2_ses-0_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -664,7 +664,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_eeg.json#ddbf8984",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_eeg.json#ddbf8984",
             "Label": "sub-2_ses-0_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -677,7 +677,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_eeg.set#fbb707c1",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_eeg.set#fbb707c1",
             "Label": "sub-2_ses-0_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -690,7 +690,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-2_ses-0_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -703,7 +703,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-2/ses-0/eeg/sub-2_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-2_ses-0_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -716,7 +716,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-0/sub-2_ses-0_scans.tsv#599fb611",
+            "Id": "bids::sub-2/ses-0/sub-2_ses-0_scans.tsv#599fb611",
             "Label": "sub-2_ses-0_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -729,7 +729,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-2_ses-1_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -742,7 +742,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-2_ses-1_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -755,7 +755,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-2_ses-1_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -768,7 +768,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_eeg.json#6d96e6a0",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_eeg.json#6d96e6a0",
             "Label": "sub-2_ses-1_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -781,7 +781,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_eeg.set#9122cac7",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_eeg.set#9122cac7",
             "Label": "sub-2_ses-1_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -794,7 +794,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-2_ses-1_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -807,7 +807,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-2_ses-1_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -820,7 +820,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-2_ses-1_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -833,7 +833,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-2_ses-1_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -846,7 +846,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.json#9bb037f7",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.json#9bb037f7",
             "Label": "sub-2_ses-1_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -859,7 +859,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.set#04f053f6",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_eeg.set#04f053f6",
             "Label": "sub-2_ses-1_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -872,7 +872,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-2_ses-1_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -885,7 +885,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-2/ses-1/eeg/sub-2_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-2_ses-1_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -898,7 +898,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-1/sub-2_ses-1_scans.tsv#39d42862",
+            "Id": "bids::sub-2/ses-1/sub-2_ses-1_scans.tsv#39d42862",
             "Label": "sub-2_ses-1_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -911,7 +911,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-2_ses-2_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -924,7 +924,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-2_ses-2_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -937,7 +937,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-2_ses-2_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -950,7 +950,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_eeg.json#912108c3",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_eeg.json#912108c3",
             "Label": "sub-2_ses-2_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -963,7 +963,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_eeg.set#da2a3045",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_eeg.set#da2a3045",
             "Label": "sub-2_ses-2_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -976,7 +976,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-2_ses-2_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -989,7 +989,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-2_ses-2_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1002,7 +1002,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-2_ses-2_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1015,7 +1015,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-2_ses-2_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1028,7 +1028,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_eeg.json#54650301",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_eeg.json#54650301",
             "Label": "sub-2_ses-2_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1041,7 +1041,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_eeg.set#c3f08be7",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_eeg.set#c3f08be7",
             "Label": "sub-2_ses-2_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1054,7 +1054,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-2_ses-2_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1067,7 +1067,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-2/ses-2/eeg/sub-2_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-2_ses-2_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1080,7 +1080,7 @@
             ]
         },
         {
-            "Id": "sub-2/ses-2/sub-2_ses-2_scans.tsv#80afbd6f",
+            "Id": "bids::sub-2/ses-2/sub-2_ses-2_scans.tsv#80afbd6f",
             "Label": "sub-2_ses-2_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1093,7 +1093,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-3_ses-0_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1106,7 +1106,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-3_ses-0_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1119,7 +1119,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-3_ses-0_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1132,7 +1132,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_eeg.json#315a76de",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_eeg.json#315a76de",
             "Label": "sub-3_ses-0_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1145,7 +1145,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_eeg.set#36ad36cd",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_eeg.set#36ad36cd",
             "Label": "sub-3_ses-0_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1158,7 +1158,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-3_ses-0_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1171,7 +1171,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-3_ses-0_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1184,7 +1184,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-3_ses-0_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1197,7 +1197,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-3_ses-0_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1210,7 +1210,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_eeg.json#6fe8e326",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_eeg.json#6fe8e326",
             "Label": "sub-3_ses-0_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1223,7 +1223,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_eeg.set#5bb7e520",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_eeg.set#5bb7e520",
             "Label": "sub-3_ses-0_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1236,7 +1236,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-3_ses-0_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1249,7 +1249,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-3/ses-0/eeg/sub-3_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-3_ses-0_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1262,7 +1262,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-0/sub-3_ses-0_scans.tsv#c8a45c02",
+            "Id": "bids::sub-3/ses-0/sub-3_ses-0_scans.tsv#c8a45c02",
             "Label": "sub-3_ses-0_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1275,7 +1275,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-3_ses-1_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1288,7 +1288,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-3_ses-1_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1301,7 +1301,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-3_ses-1_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1314,7 +1314,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_eeg.json#e7e45f14",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_eeg.json#e7e45f14",
             "Label": "sub-3_ses-1_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1327,7 +1327,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_eeg.set#ce5eef8d",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_eeg.set#ce5eef8d",
             "Label": "sub-3_ses-1_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1340,7 +1340,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-3_ses-1_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1353,7 +1353,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-3_ses-1_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1366,7 +1366,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-3_ses-1_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1379,7 +1379,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-3_ses-1_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1392,7 +1392,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_eeg.json#310a3aec",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_eeg.json#310a3aec",
             "Label": "sub-3_ses-1_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1405,7 +1405,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_eeg.set#1ed613f5",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_eeg.set#1ed613f5",
             "Label": "sub-3_ses-1_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1418,7 +1418,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-3_ses-1_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1431,7 +1431,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-3/ses-1/eeg/sub-3_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-3_ses-1_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1444,7 +1444,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-1/sub-3_ses-1_scans.tsv#e3041203",
+            "Id": "bids::sub-3/ses-1/sub-3_ses-1_scans.tsv#e3041203",
             "Label": "sub-3_ses-1_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1457,7 +1457,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-3_ses-2_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1470,7 +1470,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-3_ses-2_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1483,7 +1483,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-3_ses-2_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1496,7 +1496,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_eeg.json#015f5d2b",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_eeg.json#015f5d2b",
             "Label": "sub-3_ses-2_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1509,7 +1509,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_eeg.set#0b8cf793",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_eeg.set#0b8cf793",
             "Label": "sub-3_ses-2_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1522,7 +1522,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-3_ses-2_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1535,7 +1535,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-3_ses-2_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1548,7 +1548,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-3_ses-2_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1561,7 +1561,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-3_ses-2_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1574,7 +1574,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_eeg.json#efc4ed31",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_eeg.json#efc4ed31",
             "Label": "sub-3_ses-2_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1587,7 +1587,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_eeg.set#18b63988",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_eeg.set#18b63988",
             "Label": "sub-3_ses-2_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1600,7 +1600,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-3_ses-2_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1613,7 +1613,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-3/ses-2/eeg/sub-3_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-3_ses-2_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1626,7 +1626,7 @@
             ]
         },
         {
-            "Id": "sub-3/ses-2/sub-3_ses-2_scans.tsv#a9b03c7c",
+            "Id": "bids::sub-3/ses-2/sub-3_ses-2_scans.tsv#a9b03c7c",
             "Label": "sub-3_ses-2_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1639,7 +1639,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-4_ses-0_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1652,7 +1652,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-4_ses-0_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1665,7 +1665,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-4_ses-0_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1678,7 +1678,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_eeg.json#cc279a0e",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_eeg.json#cc279a0e",
             "Label": "sub-4_ses-0_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1691,7 +1691,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_eeg.set#d963f4ae",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_eeg.set#d963f4ae",
             "Label": "sub-4_ses-0_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1704,7 +1704,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-4_ses-0_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1717,7 +1717,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-4_ses-0_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1730,7 +1730,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-4_ses-0_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1743,7 +1743,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-4_ses-0_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1756,7 +1756,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_eeg.json#2d4a2262",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_eeg.json#2d4a2262",
             "Label": "sub-4_ses-0_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1769,7 +1769,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_eeg.set#be14b5c4",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_eeg.set#be14b5c4",
             "Label": "sub-4_ses-0_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1782,7 +1782,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-4_ses-0_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1795,7 +1795,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-4/ses-0/eeg/sub-4_ses-0_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-4_ses-0_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1808,7 +1808,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-0/sub-4_ses-0_scans.tsv#f84dfc67",
+            "Id": "bids::sub-4/ses-0/sub-4_ses-0_scans.tsv#f84dfc67",
             "Label": "sub-4_ses-0_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1821,7 +1821,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-4_ses-1_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1834,7 +1834,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-4_ses-1_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1847,7 +1847,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-4_ses-1_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1860,7 +1860,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_eeg.json#26e70150",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_eeg.json#26e70150",
             "Label": "sub-4_ses-1_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1873,7 +1873,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_eeg.set#8c8ec284",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_eeg.set#8c8ec284",
             "Label": "sub-4_ses-1_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1886,7 +1886,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-4_ses-1_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1899,7 +1899,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-4_ses-1_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1912,7 +1912,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-4_ses-1_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1925,7 +1925,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-4_ses-1_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1938,7 +1938,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_eeg.json#b449c31c",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_eeg.json#b449c31c",
             "Label": "sub-4_ses-1_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1951,7 +1951,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_eeg.set#78983023",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_eeg.set#78983023",
             "Label": "sub-4_ses-1_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1964,7 +1964,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-4_ses-1_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1977,7 +1977,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-4/ses-1/eeg/sub-4_ses-1_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-4_ses-1_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -1990,7 +1990,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-1/sub-4_ses-1_scans.tsv#948e9b05",
+            "Id": "bids::sub-4/ses-1/sub-4_ses-1_scans.tsv#948e9b05",
             "Label": "sub-4_ses-1_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2003,7 +2003,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_space-CapTrak_coordsystem.json#41ee46a3",
             "Label": "sub-4_ses-2_space-CapTrak_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2016,7 +2016,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_channels.tsv#c7022c3a",
             "Label": "sub-4_ses-2_task-imagery_run-0_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2029,7 +2029,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_coordsystem.json#f97d48bd",
             "Label": "sub-4_ses-2_task-imagery_run-0_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2042,7 +2042,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_eeg.json#dc90bfdb",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_eeg.json#dc90bfdb",
             "Label": "sub-4_ses-2_task-imagery_run-0_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2055,7 +2055,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_eeg.set#10c5fa84",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_eeg.set#10c5fa84",
             "Label": "sub-4_ses-2_task-imagery_run-0_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2068,7 +2068,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_electrodes.tsv#28f73093",
             "Label": "sub-4_ses-2_task-imagery_run-0_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2081,7 +2081,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-0_events.tsv#4bbba0be",
             "Label": "sub-4_ses-2_task-imagery_run-0_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2094,7 +2094,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_channels.tsv#c7022c3a",
             "Label": "sub-4_ses-2_task-imagery_run-1_channels.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2107,7 +2107,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_coordsystem.json#f97d48bd",
             "Label": "sub-4_ses-2_task-imagery_run-1_coordsystem.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2120,7 +2120,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_eeg.json#2d4a2262",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_eeg.json#2d4a2262",
             "Label": "sub-4_ses-2_task-imagery_run-1_eeg.json",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2133,7 +2133,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_eeg.set#84a3b730",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_eeg.set#84a3b730",
             "Label": "sub-4_ses-2_task-imagery_run-1_eeg.set",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2146,7 +2146,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_electrodes.tsv#28f73093",
             "Label": "sub-4_ses-2_task-imagery_run-1_electrodes.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2159,7 +2159,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
+            "Id": "bids::sub-4/ses-2/eeg/sub-4_ses-2_task-imagery_run-1_events.tsv#4bbba0be",
             "Label": "sub-4_ses-2_task-imagery_run-1_events.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
@@ -2172,7 +2172,7 @@
             ]
         },
         {
-            "Id": "sub-4/ses-2/sub-4_ses-2_scans.tsv#c74b14ae",
+            "Id": "bids::sub-4/ses-2/sub-4_ses-2_scans.tsv#c74b14ae",
             "Label": "sub-4_ses-2_scans.tsv",
             "GeneratedBy": [
                 "bids::prov#preparation-qUnddv7M"
